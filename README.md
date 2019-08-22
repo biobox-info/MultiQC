@@ -1,0 +1,2 @@
+# MultiQC
+MultiQC Singularity Recipe 
